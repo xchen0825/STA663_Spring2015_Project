@@ -1,1 +1,9 @@
-This is the paper I choose......
+Paper choice and outline of background:
+
+Paper choice:
+Kumar., M, and Duffy.,CJ. Exploring the Role of Domain Partitioning on Efficiency of Parallel Distributed Hydrologic Model Simulations. Journal of Hydrogeology & Hydrologic Engineering. 2015
+
+Outline of background:
+Parallel computing and graph theory have been widely applied in the domain of computer science, however, studies of applications of parallel computing and optimization of the algorithm of how to partition the hydrological states/fluxes in hydrology field is rare. 
+Researches have illustrated that parallel simulations on partitions that minimize interprocessor communication and divide the computational load equally are the most efficient. More importantly, load balance between processors is observed to be a more sensitive control on parallel efficiency than minimization of interprocessor communication. 
+In this course project, I will first apply the graph theory to optimize the partition of computing and then then try to minimize the communications between processors. In addition, performance of the paralleled code as well as the original code in predicting the hydrological states and fluxes will be compared to confirm that the code is working properly.
