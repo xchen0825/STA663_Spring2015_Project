@@ -1,0 +1,3 @@
+#!/bin/bash
+export PATH=/opt/apps/intelcsl//impi/5.0.2.044/intel64/bin:$PATH
+/opt/apps/slurm/allinea/forge/bin/ddt  -start
